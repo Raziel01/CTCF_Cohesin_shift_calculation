@@ -1,3 +1,4 @@
+
 #!/bin/sh
 
 read -p 'CTCF BED name: ' file1 ;
